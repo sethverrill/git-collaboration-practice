@@ -1,1 +1,3 @@
-This will be a collaboration file.
+This will be a collaboration file. 
+
+Collaboration initiated!
